@@ -20,6 +20,7 @@ namespace Repository_test
     /// </summary>
     public partial class MainWindow : Window
     {
+    int number=0;
         public MainWindow()
         {
             InitializeComponent();
