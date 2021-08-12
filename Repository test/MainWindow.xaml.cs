@@ -31,5 +31,8 @@ namespace Repository_test
            
         }
         public string Name { get; set; }
+        public string Family { get; set; }
+
+
     }
 }
