@@ -21,6 +21,7 @@ namespace Repository_test
     public partial class MainWindow : Window
     {
     int number=0;
+    int Change=21;
         public MainWindow()
         {
             InitializeComponent();
