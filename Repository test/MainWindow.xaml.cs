@@ -24,5 +24,10 @@ namespace Repository_test
         {
             InitializeComponent();
         }
+        public int MyVar { get; set; }
+        private void Button()
+        { 
+           
+        }
     }
 }
