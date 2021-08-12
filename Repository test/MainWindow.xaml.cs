@@ -30,5 +30,6 @@ namespace Repository_test
         { 
            
         }
+        public string Name { get; set; }
     }
 }
